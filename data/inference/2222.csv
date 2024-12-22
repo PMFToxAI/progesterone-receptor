@@ -1,0 +1,231 @@
+,name,smiles
+0,4-Biphenylamine hydrochloride,Cl.NC1=CC=C(C=C1)C1=CC=CC=C1
+1,17beta-Estradiol,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3CC[C@@]21[H]
+2,Mestranol,COC1=CC2=C(C=C1)[C@H]1CC[C@@]3(C)[C@@H](CC[C@@]3(O)C#C)[C@@H]1CC2
+3,Phenoxybenzamine hydrochloride,Cl.CC(COC1=CC=CC=C1)N(CCCl)CC1=CC=CC=C1
+4,Zearalenone,C[C@H]1CCCC(=O)CCC\C=C\C2=C(C(O)=CC(O)=C2)C(=O)O1
+5,"3-Chloro[1,1′-biphenyl]-4-ol",OC1=C(Cl)C=C(C=C1)C1=CC=CC=C1
+6,Cortisone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+7,Nitrendipine,CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC
+8,Triticonazole,CC1(C)CCC(=CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+9,17beta-Trenbolone,[H][C@@]12CC[C@H](O)[C@@]1(C)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H]
+10,Flurochloridone,FC(F)(F)C1=CC=CC(=C1)N1CC(CCl)C(Cl)C1=O
+11,"4,4'-Propane-2,2-diyldicyclohexanol",CC(C)(C1CCC(O)CC1)C1CCC(O)CC1
+12,9-Ethyl-3-nitro-9H-carbazole,CCN1C2=C(C=CC=C2)C2=C1C=CC(=C2)[N+]([O-])=O
+13,2-(Phenylsulfonyl)aniline,NC1=CC=CC=C1S(=O)(=O)C1=CC=CC=C1
+14,21-Hydroxyprogesterone,[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+15,Loreclezole hydrochloride,Cl.Cl\C(=C/N1C=NC=N1)C1=C(Cl)C=C(Cl)C=C1
+16,Cilnidipine,COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC\C=C\C1=CC=CC=C1
+17,Hydrocortisone acetate,CC(=O)OCC(=O)[C@@]1(O)CCC2C3CCC4=CC(=O)CC[C@]4(C)C3[C@@H](O)C[C@]12C
+18,Bolandiol dipropionate,CCC(=O)O[C@H]1CCC2C3CCC4=C[C@H](CCC4C3CCC12C)OC(=O)CC
+19,"3,3'-Dichlorobenzidine dihydrochloride",Cl.Cl.NC1=CC=C(C=C1Cl)C1=CC(Cl)=C(N)C=C1
+20,Kepone,ClC12C(=O)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C4(Cl)C1(Cl)Cl
+21,Methyl parathion,COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O
+22,Chlorotrianisene,COC1=CC=C(C=C1)C(Cl)=C(C1=CC=C(OC)C=C1)C1=CC=C(OC)C=C1
+23,Biochanin A,COC1=CC=C(C=C1)C1=COC2=C(C(O)=CC(O)=C2)C1=O
+24,Chrysin,OC1=CC2=C(C(O)=C1)C(=O)C=C(O2)C1=CC=CC=C1
+25,Phosalone,CCOP(=S)(OCC)SCN1C(=O)OC2=CC(Cl)=CC=C12
+26,Guggulsterone Z,C\C=C1/C(=O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+27,17-Methyltestosterone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+28,Pregnenolone,[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+29,SU-5416,CC1=CC(C)=C(N1)C=C1C(=O)NC2=CC=CC=C12
+30,2-Amino-N-cyclohexyl-N-methylbenzenesulfonamide,CN(C1CCCCC1)S(=O)(=O)C1=CC=CC=C1N
+31,"2-(2,6-Diisopropylphenyl)-5-hydroxy-1H-isoindole-1,3-dione",CC(C)C1=CC=CC(C(C)C)=C1N1C(=O)C2=C(C=C(O)C=C2)C1=O
+32,GSK232420A,NC(=O)CN(CC(F)(F)F)C1=CC(=C(C=C1)C#N)C(F)(F)F
+33,SB202235,NC(=O)N(O)[C@@H]1COC2=C1C=CC(OCC1=CC=CC=C1)=C2
+34,Hydrocortamate,[H][C@@]12CC[C@](O)(C(=O)COC(=O)CN(CC)CC)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+35,Lindane,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl
+36,2-Nitrofluorene,[O-][N+](=O)C1=CC2=C(C=C1)C1=C(C2)C=CC=C1
+37,Hexestrol,CC[C@@H]([C@@H](CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+38,Bicalutamide,CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F
+39,Danazol,C[C@]12CC[C@H]3[C@@H](CCC4=CC5=C(C[C@]34C)C=NO5)[C@@H]1CC[C@@]2(O)C#C
+40,Methandrostenolone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+41,Nandrolone phenpropionate,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC(=O)CCC1=CC=CC=C1
+42,Linuron,CON(C)C(=O)NC1=CC=C(Cl)C(Cl)=C1
+43,Fludioxonil,FC1(F)OC2=CC=CC(=C2O1)C1=CNC=C1C#N
+44,Kresoxim-methyl,CO\N=C(\C(=O)OC)C1=C(COC2=C(C)C=CC=C2)C=CC=C1
+45,Etaconazole,CCC1COC(CN2C=NC=N2)(O1)C1=C(Cl)C=C(Cl)C=C1
+46,"Dipropyl 3,4,5,6-tetrachlorobenzene-1,2-dicarboxylate",CCCOC(=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1C(=O)OCCC
+47,Tiratricol,OC(=O)CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1
+48,Flumethasone,C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+49,Eplerenone,[H][C@@]12C[C@@]3(C)[C@@]([H])(CC[C@@]33CCC(=O)O3)[C@]3([H])[C@@H](CC4=CC(=O)CC[C@]4(C)[C@@]13O2)C(=O)OC
+50,Halometasone hydrate,O.C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C(Cl)=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+51,Fluperlapine,CN1CCN(CC1)C1=NC2=CC(F)=CC=C2CC2=C1C=CC=C2
+52,Surinabant,CCC1=C(N(N=C1C(=O)NN1CCCCC1)C1=CC=C(Cl)C=C1Cl)C1=CC=C(Br)C=C1
+53,2-Hydroxyfluorene,OC1=CC2=C(C=C1)C1=C(C2)C=CC=C1
+54,rac Benidipine hydrochloride,Cl.COC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)O[C@@H]1CCCN(CC2=CC=CC=C2)C1
+55,Promestriene,CCCOC1=CC2=C(C=C1)[C@H]1CC[C@]3(C)C(CC[C@H]3[C@@H]1CC2)OC
+56,Benzyl butyl phthalate,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1
+57,Dehydroepiandrosterone 3-acetate,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(C)=O
+58,"N-(2-Fluorenyl)-2,2,2-trifluoroacetamide",FC(F)(F)C(=O)NC1=CC2=C(C=C1)C1=CC=CC=C1C2
+59,"2,2',6,6'-Tetrachlorobisphenol A",CC(C)(C1=CC(Cl)=C(O)C(Cl)=C1)C1=CC(Cl)=C(O)C(Cl)=C1
+60,4-Hydroxyazobenzene,OC1=CC=C(C=C1)N=NC1=CC=CC=C1
+61,Triphenylethylene,C(=C(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1
+62,4-Cumylphenol,CC(C)(C1=CC=CC=C1)C1=CC=C(O)C=C1
+63,Betamethasone,[H][C@@]12C[C@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+64,Prednisolone acetate,[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+65,4-Hydroxyandrostenedione,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C
+66,Endosulfan sulfate,ClC1=C(Cl)C2(Cl)C3COS(=O)(=O)OCC3C1(Cl)C2(Cl)Cl
+67,Bortezomib,CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=NC=CN=C1)B(O)O
+68,"(Z,E)-Diethylstilbestrol",CCC(=C(CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+69,Cypromid,ClC1=CC=C(NC(=O)C2CC2)C=C1Cl
+70,Stanozolol,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC3=C(C[C@]12C)C=NN3
+71,4-{2-Oxo-2-[3-(trifluoromethyl)phenyl]ethyl}benzonitrile,FC(F)(F)C1=CC(=CC=C1)C(=O)CC1=CC=C(C=C1)C#N
+72,"1,3-Propanediol, bis(4-aminobenzoate)",NC1=CC=C(C=C1)C(=O)OCCCOC(=O)C1=CC=C(N)C=C1
+73,Isoflupredone acetate,CC(=O)OCC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C
+74,Canrenone,C[C@]12CC[C@H]3[C@@H](C=CC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@]21CCC(=O)O1
+75,Dexamethasone sodium phosphate,[Na+].[Na+].[H][C@@]12C[C@@H](C)[C@](O)(C(=O)COP([O-])([O-])=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+76,Diphenoxylate hydrochloride,Cl.CCOC(=O)C1(CCN(CCC(C#N)(C2=CC=CC=C2)C2=CC=CC=C2)CC1)C1=CC=CC=C1
+77,Luliconazole,ClC1=CC(Cl)=C(C=C1)[C@@H]1CS\C(S1)=C(\C#N)N1C=CN=C1
+78,Altrenogest,C[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@]2(O)CC=C
+79,Dexamethasone isonicotinate,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COC(=O)C1=CC=NC=C1
+80,Nandrolone cyclohexylpropionate,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC(=O)CCC1CCCCC1
+81,2-Chlorophenothiazine,ClC1=CC=C2SC3=CC=CC=C3NC2=C1
+82,Carbazole,N1C2=CC=CC=C2C2=C1C=CC=C2
+83,"p,p'-DDD",ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+84,DDT,ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl
+85,Dehydroepiandrosterone,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+86,C.I. Solvent Yellow 14,OC1=CC=C2C=CC=CC2=C1N=NC1=CC=CC=C1
+87,Prazepam,ClC1=CC=C2N(CC3CC3)C(=O)CN=C(C3=CC=CC=C3)C2=C1
+88,Prednisone,C[C@]12CC(=O)[C@H]3[C@@H](CCC4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO
+89,Quercetin,OC1=CC2=C(C(O)=C1)C(=O)C(O)=C(O2)C1=CC(O)=C(O)C=C1
+90,Lynestrenol,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H]
+91,Zearalanol,C[C@H]1CCC[C@H](O)CCCCCC2=C(C(O)=CC(O)=C2)C(=O)O1
+92,Vinclozolin,CC1(OC(=O)N(C1=O)C1=CC(Cl)=CC(Cl)=C1)C=C
+93,Estrone,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+94,Fulvestrant,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@@]21[H])C=C(O)C=C3
+95,Estradiol cypionate,C[C@]12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CC[C@@H]2OC(=O)CCC1CCCC1
+96,Felodipine,CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC
+97,Gestrinone,CC[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@]2(O)C#C
+98,Isradipine,COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C
+99,Prochloraz,CCCN(CCOC1=C(Cl)C=C(Cl)C=C1Cl)C(=O)N1C=CN=C1
+100,Resveratrol,OC1=CC=C(\C=C\C2=CC(O)=CC(O)=C2)C=C1
+101,Metconazole,CC1(C)CCC(CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+102,Tetrabromobisphenol A bis(2-hydroxyethyl) ether,CC(C)(C1=CC(Br)=C(OCCO)C(Br)=C1)C1=CC(Br)=C(OCCO)C(Br)=C1
+103,Amiprofos-methyl,COP(=S)(NC(C)C)OC1=C(C=C(C)C=C1)[N+]([O-])=O
+104,Parinol,OC(C1=CC=C(Cl)C=C1)(C1=CC=C(Cl)C=C1)C1=CC=CN=C1
+105,Hydrocortisone 17-butyrate,[H][C@@]12CC[C@](OC(=O)CCC)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+106,Bumecaine,CCCCN1CCCC1C(=O)NC1=C(C)C=C(C)C=C1C
+107,Clopidogrel hydrogen sulfate,OS(O)(=O)=O.COC(=O)C(N1CCC2=C(C1)C=CS2)C1=CC=CC=C1Cl
+108,Phenylparaben,OC1=CC=C(C=C1)C(=O)OC1=CC=CC=C1
+109,Carfilzomib,CC(C)C[C@H](NC(=O)[C@H](CCC1=CC=CC=C1)NC(=O)CN1CCOCC1)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1
+110,Amelometasone,CCC(=O)O[C@@]1([C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)C3(F)[C@@H](O)C[C@]12C)C(=O)COC
+111,Brofoxine,CC1(C)OC(=O)NC2=C1C=C(Br)C=C2
+112,Estriol tripropionate,CCC(=O)O[C@@H]1C[C@H]2[C@@H]3CCC4=C(C=CC(OC(=O)CC)=C4)[C@H]3CC[C@]2(C)[C@H]1OC(=O)CC
+113,Ergocalciferol,[H][C@@]1(CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C)[C@H](C)\C=C\[C@H](C)C(C)C
+114,Chlorfenson,ClC1=CC=C(OS(=O)(=O)C2=CC=C(Cl)C=C2)C=C1
+115,Canadine,COC1=CC=C2CC3N(CCC4=C3C=C3OCOC3=C4)CC2=C1OC
+116,Cortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+117,Exemestane,C[C@]12CC[C@H]3[C@@H](CC(=C)C4=CC(=O)C=C[C@]34C)[C@@H]1CCC2=O
+118,Mifepristone,[H][C@@]12CC[C@@](O)(C#CC)[C@@]1(C)C[C@]([H])(C1=CC=C(C=C1)N(C)C)C1=C3CCC(=O)C=C3CC[C@@]21[H]
+119,Nimodipine,COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C
+120,Oxymetholone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)\C(C[C@]12C)=C/O
+121,Ticlopidine,ClC1=CC=CC=C1CN1CCC2=C(C1)C=CS2
+122,Benz(a)anthracene,C1=CC2=C(C=C1)C=C1C(C=CC3=C1C=CC=C3)=C2
+123,Napropamide,CCN(CC)C(=O)C(C)OC1=C2C=CC=CC2=CC=C1
+124,"4-Nonylphenol, branched",
+125,4-Nonylphenol,CCCCCCCCCC1=CC=C(O)C=C1
+126,Beclomethasone,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+127,"2,2',4,4'-Tetrahydroxybenzophenone",OC1=CC(O)=C(C=C1)C(=O)C1=CC=C(O)C=C1O
+128,Tetrabromophenolphthalein ethyl ester,CCOC(=O)C1=C(C=CC=C1)C(C1=CC(Br)=C(O)C(Br)=C1)=C1C=C(Br)C(=O)C(Br)=C1
+129,Fluprednisolone,C[C@]12C[C@H](O)[C@H]3[C@@H](C[C@H](F)C4=CC(=O)C=C[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO
+130,Riodipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(OC(F)F)C=CC=C1)C(=O)OC
+131,Tamibarotene,CC1(C)CCC(C)(C)C2=C1C=CC(NC(=O)C1=CC=C(C=C1)C(O)=O)=C2
+132,2-Amino-5-chloro-2'-fluorobenzophenone,NC1=C(C=C(Cl)C=C1)C(=O)C1=C(F)C=CC=C1
+133,1-Nitropyrene,[O-][N+](=O)C1=CC=C2C=CC3=CC=CC4=CC=C1C2=C34
+134,"o,p'-DDT",ClC1=CC=C(C=C1)C(C1=CC=CC=C1Cl)C(Cl)(Cl)Cl
+135,Apigenin,OC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C=C(O)C=C2O
+136,Corticosterone,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2C(=O)CO
+137,Deoxycorticosterone acetate,CC(=O)OCC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+138,Ethylestrenol,CC[C@]1(O)CC[C@H]2[C@@H]3CCC4=CCCC[C@@H]4[C@H]3CC[C@]12C
+139,Tri-o-cresyl phosphate,CC1=C(OP(=O)(OC2=C(C)C=CC=C2)OC2=C(C)C=CC=C2)C=CC=C1
+140,Guggulsterone E,C\C=C1\C(=O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+141,4-[3-(4-Acetyl-3-hydroxy-2-propylphenoxy)propoxy]phenoxy-acetic acid,CCCC1=C(OCCCOC2=CC=C(OCC(O)=O)C=C2)C=CC(C(C)=O)=C1O
+142,17alpha-Hydroxyprogesterone,CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+143,Bromophos-ethyl,CCOP(=S)(OCC)OC1=C(Cl)C=C(Br)C(Cl)=C1
+144,Fenson,ClC1=CC=C(OS(=O)(=O)C2=CC=CC=C2)C=C1
+145,Triphenylbismuth,C1=CC=C(C=C1)[Bi](C1=CC=CC=C1)C1=CC=CC=C1
+146,Quinestrol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(OC3CCCC3)=C4)[C@@H]1CC[C@@]2(O)C#C
+147,FR145237,CC1=CC2=C(OC(CN(CC3=CC=CC=C3)C(=O)NC3=C(F)C=C(F)C=C3F)=C2C2=CC=C(Cl)C=C2)C=C1
+148,Etonitazene,CCOC1=CC=C(CC2=NC3=C(C=CC(=C3)[N+]([O-])=O)N2CCN(CC)CC)C=C1
+149,Flavopiridol hydrochloride,Cl.CN1CC[C@@H]([C@H](O)C1)C1=C2OC(=CC(=O)C2=C(O)C=C1O)C1=C(Cl)C=CC=C1
+150,Stiripentol,CC(C)(C)C(O)C=CC1=CC2=C(OCO2)C=C1
+151,Clevidipine,CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC
+152,Nandrolone furylpropionate,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CC[C@@H]2OC(=O)CCC1=CC=CO1
+153,Bisphenol A,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+154,Butylated hydroxyanisole,"COC1=CC=C(O)C=C1.CC(C)(C)* |c:7,t:2,4,lp:1:2,6:2,m:13:8.7|"
+155,4'-Fluoro-4-aminodiphenyl,NC1=CC=C(C=C1)C1=CC=C(F)C=C1
+156,Kaempferol,OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O1)C=C(O)C=C2O
+157,Hydrocortisone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+158,Nitrofen,[O-][N+](=O)C1=CC=C(OC2=C(Cl)C=C(Cl)C=C2)C=C1
+159,Parathion,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O
+160,4-Phenylphenol,OC1=CC=C(C=C1)C1=CC=CC=C1
+161,Tetradifon,ClC1=CC=C(C=C1)S(=O)(=O)C1=CC(Cl)=C(Cl)C=C1Cl
+162,Toxaphene,
+163,Carbophenothion,CCOP(=S)(OCC)SCSC1=CC=C(Cl)C=C1
+164,O-Ethyl O-(p-nitrophenyl phenyl)phosphonothioate,CCOP(=S)(OC1=CC=C(C=C1)[N+]([O-])=O)C1=CC=CC=C1
+165,Fludrocortisone,C[C@]12C[C@H](O)[C@@]3(F)[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO
+166,Nandrolone,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]
+167,Methylprednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C
+168,Flutamide,CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+169,Pyraclostrobin,CON(C(=O)OC)C1=C(COC2=NN(C=C2)C2=CC=C(Cl)C=C2)C=CC=C1
+170,Ipconazole,CC(C)C1CCC(CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+171,Pregnenolone carbonitrile,[H][C@@]12C[C@@H](C#N)[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+172,Bisphenol AF,OC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)(C(F)(F)F)C(F)(F)F
+173,Chlorfenethol,CC(O)(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+174,Tonalide,CC1CC(C)(C)C2=C(C=C(C)C(=C2)C(C)=O)C1(C)C
+175,Estradiol acetate,CC(=O)OC1=CC=C2[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@@H]3CCC2=C1
+176,Drospirenone,[H][C@@]12C[C@]1([H])[C@@]1([H])[C@]3([H])[C@]4([H])C[C@]4([H])[C@@]4(CCC(=O)O4)[C@@]3(C)CC[C@]1([H])[C@@]1(C)CCC(=O)C=C21
+177,Furazabol,C[C@]1(O)CC[C@H]2[C@@H]3CC[C@H]4CC5=NON=C5C[C@]4(C)[C@H]3CC[C@]12C
+178,Diethylstilbestrol dipropionate,CCC(=O)OC1=CC=C(C=C1)C(\CC)=C(/CC)C1=CC=C(OC(=O)CC)C=C1
+179,2-Bromo-4'-chloro-2'-(2-fluorobenzoyl)acetanilide,FC1=C(C=CC=C1)C(=O)C1=CC(Cl)=CC=C1NC(=O)CBr
+180,Aldrin,[H][C@]12C[C@]([H])(C=C1)[C@]1([H])[C@@]2([H])[C@]2(Cl)C(Cl)=C(Cl)[C@@]1(Cl)C2(Cl)Cl
+181,Ioxynil,OC1=C(I)C=C(C=C1I)C#N
+182,"N-(3,4-Dichlorophenyl)propanamide",CCC(=O)NC1=CC=C(Cl)C(Cl)=C1
+183,"2,4-Dihydroxybenzophenone",OC1=CC=C(C(=O)C2=CC=CC=C2)C(O)=C1
+184,17alpha-Estradiol,[H][C@@]12CC[C@@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+185,Dexamethasone acetate,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COC(C)=O
+186,"4-Androstene-3,17-dione",[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+187,4-Nitro-N-phenylaniline,[O-][N+](=O)C1=CC=C(NC2=CC=CC=C2)C=C1
+188,"4,4'-(4-Methylpentane-2,2-diyl)diphenol",CC(C)CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+189,"4-(4-Chlorophenyl)-2-phenyl-2-(1H-1,2,4-triazol-1-ylmethyl)butyronitrile",ClC1=CC=C(CCC(CN2C=NC=N2)(C#N)C2=CC=CC=C2)C=C1
+190,Sulprofos,CCCSP(=S)(OCC)OC1=CC=C(SC)C=C1
+191,Fluoxymestrone,C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C
+192,Hydroxyflutamide,CC(C)(O)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+193,Dichlofenthion,CCOP(=S)(OCC)OC1=CC=C(Cl)C=C1Cl
+194,Prothiofos,CCCSP(=S)(OCC)OC1=C(Cl)C=C(Cl)C=C1
+195,Cortodoxone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO
+196,Diflorasone diacetate,C[C@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(OC(C)=O)C(=O)COC(C)=O
+197,Betamethasone 21-phosphate disodium,[Na+].[Na+].C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)COP([O-])([O-])=O
+198,CP-283097,O[C@@H]1[C@@H](COC2=CC(O)=CC=C12)N1CCC(O)(CC1)C1=CC=C(F)C=C1
+199,Enzacamene,CC1=CC=C(C=C2C3CCC(C)(C2=O)C3(C)C)C=C1
+200,Lemildipine,COC(=O)C1=C(C)NC(COC(N)=O)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC(C)C
+201,Oxendolone,CC[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]2(C)[C@H]1O
+202,"10,11-Dihydro-5H-dibenz[b,f]azepine",C1CC2=CC=CC=C2NC2=CC=CC=C12
+203,"(16alpha, 17beta)-Estra-1,3,5(10)-triene-3,16,17-triol 16,17-diacetate 3-benzoate",[H][C@@]12C[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@@]1(C)CC[C@]1([H])C3=CC=C(OC(=O)C4=CC=CC=C4)C=C3CC[C@@]21[H]
+204,Dehydropregnenolone acetate,[H][C@@]12CC=C(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(C)=O
+205,Mitotane,ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=C(Cl)C=CC=C1
+206,"p,p'-DDE",ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+207,Dieldrin,[H][C@]12O[C@@]1([H])[C@@]1([H])C[C@]2([H])[C@@]2([H])[C@]1([H])[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl
+208,Ethoxyquin,CCOC1=CC2=C(NC(C)(C)C=C2C)C=C1
+209,Manidipine dihydrochloride,Cl.Cl.COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1
+210,Methoxychlor,COC1=CC=C(C=C1)C(C1=CC=C(OC)C=C1)C(Cl)(Cl)Cl
+211,Prednisolone,[H][C@]12[C@@H](O)C[C@@]3(C)[C@@H](CC[C@]3(O)C(=O)CO)[C@@H]1CCC1=CC(=O)C=C[C@]21C
+212,Quercetin dihydrate,O.O.OC1=CC2=C(C(O)=C1)C(=O)C(O)=C(O2)C1=CC(O)=C(O)C=C1
+213,5alpha-Dihydrotestosterone,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)CC[C@]12C
+214,Estriol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1C[C@@H](O)[C@@H]2O
+215,Trilostane,C[C@]12CC[C@H]3[C@@H](CC[C@@]45O[C@@H]4C(O)=C(C[C@]35C)C#N)[C@@H]1CC[C@@H]2O
+216,"Tris(1,3-dichloro-2-propyl) phosphate",ClCC(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl
+217,"1,1-Bis(3,4-dimethylphenyl)ethane",CC(C1=CC=C(C)C(C)=C1)C1=CC=C(C)C(C)=C1
+218,Bromuconazole,ClC1=CC(Cl)=C(C=C1)C1(CN2C=NC=N2)CC(Br)CO1
+219,Procymidone,CC12CC1(C)C(=O)N(C2=O)C1=CC(Cl)=CC(Cl)=C1
+220,Testosterone propionate,[H][C@@]12CC[C@H](OC(=O)CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+221,"Ethyl 2-cyano-3,3-diphenylacrylate",CCOC(=O)C(C#N)=C(C1=CC=CC=C1)C1=CC=CC=C1
+222,Efavirenz,FC(F)(F)[C@]1(OC(=O)NC2=CC=C(Cl)C=C12)C#CC1CC1
+223,Tenidap,NC(=O)N1C(O)=C(C(=O)C2=CC=CS2)C2=CC(Cl)=CC=C12
+224,Levosimendan,C[C@@H]1CC(=O)NN=C1C1=CC=C(NN=C(C#N)C#N)C=C1
+225,Nicardipine hydrochloride,Cl.COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1
+226,Aranidipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OCC(C)=O
+227,Fezatione,CC1=CC=C(\C=N\N2C(=S)SC=C2C2=CC=CC=C2)C=C1
+228,Mexazolam,CC1COC2(N1CC(=O)NC1=CC=C(Cl)C=C21)C1=CC=CC=C1Cl
+229,Dienestrol diacetate,CC=C(C(=CC)C1=CC=C(OC(C)=O)C=C1)C1=CC=C(OC(C)=O)C=C1

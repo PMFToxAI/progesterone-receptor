@@ -1,0 +1,10 @@
+,Activator_moderate,Activator_strong,Activator_very weak,Activator_weak,Inactive,Inhibitor_moderate,Inhibitor_strong,Inhibitor_very weak,Inhibitor_weak
+Activator_moderate,17,0,0,0,0,0,0,0,0
+Activator_strong,0,53,0,0,0,0,0,0,0
+Activator_very weak,0,0,42,0,0,0,0,0,0
+Activator_weak,0,0,0,41,0,0,0,0,0
+Inactive,0,0,6,6,3854,0,4,70,15
+Inhibitor_moderate,0,0,0,0,0,15,0,0,0
+Inhibitor_strong,0,0,0,0,2,0,28,0,0
+Inhibitor_very weak,0,1,3,1,33,0,0,820,0
+Inhibitor_weak,0,0,3,0,9,0,3,4,693

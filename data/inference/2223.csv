@@ -1,0 +1,100 @@
+,name,smiles
+0,"3-Chloro[1,1′-biphenyl]-4-ol",OC1=C(Cl)C=C(C=C1)C1=CC=CC=C1
+1,Nitrendipine,CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC
+2,9-Ethyl-3-nitro-9H-carbazole,CCN1C2=C(C=CC=C2)C2=C1C=CC(=C2)[N+]([O-])=O
+3,Cilnidipine,COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC\C=C\C1=CC=CC=C1
+4,"3,3'-Dichlorobenzidine dihydrochloride",Cl.Cl.NC1=CC=C(C=C1Cl)C1=CC(Cl)=C(N)C=C1
+5,Kepone,ClC12C(=O)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C4(Cl)C1(Cl)Cl
+6,Methyl parathion,COP(=S)(OC)OC1=CC=C(C=C1)[N+]([O-])=O
+7,Chlorotrianisene,COC1=CC=C(C=C1)C(Cl)=C(C1=CC=C(OC)C=C1)C1=CC=C(OC)C=C1
+8,Biochanin A,COC1=CC=C(C=C1)C1=COC2=C(C(O)=CC(O)=C2)C1=O
+9,Phosalone,CCOP(=S)(OCC)SCN1C(=O)OC2=CC(Cl)=CC=C12
+10,2-Amino-N-cyclohexyl-N-methylbenzenesulfonamide,CN(C1CCCCC1)S(=O)(=O)C1=CC=CC=C1N
+11,"2-(2,6-Diisopropylphenyl)-5-hydroxy-1H-isoindole-1,3-dione",CC(C)C1=CC=CC(C(C)C)=C1N1C(=O)C2=C(C=C(O)C=C2)C1=O
+12,GSK232420A,NC(=O)CN(CC(F)(F)F)C1=CC(=C(C=C1)C#N)C(F)(F)F
+13,2-Nitrofluorene,[O-][N+](=O)C1=CC2=C(C=C1)C1=C(C2)C=CC=C1
+14,Hexestrol,CC[C@@H]([C@@H](CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+15,Bicalutamide,CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F
+16,Fludioxonil,FC1(F)OC2=CC=CC(=C2O1)C1=CNC=C1C#N
+17,Kresoxim-methyl,CO\N=C(\C(=O)OC)C1=C(COC2=C(C)C=CC=C2)C=CC=C1
+18,Etaconazole,CCC1COC(CN2C=NC=N2)(O1)C1=C(Cl)C=C(Cl)C=C1
+19,"Dipropyl 3,4,5,6-tetrachlorobenzene-1,2-dicarboxylate",CCCOC(=O)C1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1C(=O)OCCC
+20,2-Hydroxyfluorene,OC1=CC2=C(C=C1)C1=C(C2)C=CC=C1
+21,rac Benidipine hydrochloride,Cl.COC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)O[C@@H]1CCCN(CC2=CC=CC=C2)C1
+22,"N-(2-Fluorenyl)-2,2,2-trifluoroacetamide",FC(F)(F)C(=O)NC1=CC2=C(C=C1)C1=CC=CC=C1C2
+23,"2,2',6,6'-Tetrachlorobisphenol A",CC(C)(C1=CC(Cl)=C(O)C(Cl)=C1)C1=CC(Cl)=C(O)C(Cl)=C1
+24,Triphenylethylene,C(=C(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1
+25,4-Cumylphenol,CC(C)(C1=CC=CC=C1)C1=CC=C(O)C=C1
+26,Endosulfan sulfate,ClC1=C(Cl)C2(Cl)C3COS(=O)(=O)OCC3C1(Cl)C2(Cl)Cl
+27,"(Z,E)-Diethylstilbestrol",CCC(=C(CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+28,Bortezomib,CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=NC=CN=C1)B(O)O
+29,4-{2-Oxo-2-[3-(trifluoromethyl)phenyl]ethyl}benzonitrile,FC(F)(F)C1=CC(=CC=C1)C(=O)CC1=CC=C(C=C1)C#N
+30,2-Chlorophenothiazine,ClC1=CC=C2SC3=CC=CC=C3NC2=C1
+31,"p,p'-DDD",ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+32,DDT,ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl
+33,Lynestrenol,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H]
+34,Zearalanol,C[C@H]1CCC[C@H](O)CCCCCC2=C(C(O)=CC(O)=C2)C(=O)O1
+35,Estrone,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+36,Fulvestrant,[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@@]21[H])C=C(O)C=C3
+37,Felodipine,CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC
+38,Isradipine,COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C
+39,Prochloraz,CCCN(CCOC1=C(Cl)C=C(Cl)C=C1Cl)C(=O)N1C=CN=C1
+40,Metconazole,CC1(C)CCC(CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+41,Tetrabromobisphenol A bis(2-hydroxyethyl) ether,CC(C)(C1=CC(Br)=C(OCCO)C(Br)=C1)C1=CC(Br)=C(OCCO)C(Br)=C1
+42,Amiprofos-methyl,COP(=S)(NC(C)C)OC1=C(C=C(C)C=C1)[N+]([O-])=O
+43,Parinol,OC(C1=CC=C(Cl)C=C1)(C1=CC=C(Cl)C=C1)C1=CC=CN=C1
+44,Clopidogrel hydrogen sulfate,OS(O)(=O)=O.COC(=O)C(N1CCC2=C(C1)C=CS2)C1=CC=CC=C1Cl
+45,Carfilzomib,CC(C)C[C@H](NC(=O)[C@H](CCC1=CC=CC=C1)NC(=O)CN1CCOCC1)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](CC(C)C)C(=O)[C@@]1(C)CO1
+46,Canadine,COC1=CC=C2CC3N(CCC4=C3C=C3OCOC3=C4)CC2=C1OC
+47,Mifepristone,[H][C@@]12CC[C@@](O)(C#CC)[C@@]1(C)C[C@]([H])(C1=CC=C(C=C1)N(C)C)C1=C3CCC(=O)C=C3CC[C@@]21[H]
+48,Nimodipine,COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C
+49,"2,2',4,4'-Tetrahydroxybenzophenone",OC1=CC(O)=C(C=C1)C(=O)C1=CC=C(O)C=C1O
+50,Tetrabromophenolphthalein ethyl ester,CCOC(=O)C1=C(C=CC=C1)C(C1=CC(Br)=C(O)C(Br)=C1)=C1C=C(Br)C(=O)C(Br)=C1
+51,Riodipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(OC(F)F)C=CC=C1)C(=O)OC
+52,1-Nitropyrene,[O-][N+](=O)C1=CC=C2C=CC3=CC=CC4=CC=C1C2=C34
+53,"o,p'-DDT",ClC1=CC=C(C=C1)C(C1=CC=CC=C1Cl)C(Cl)(Cl)Cl
+54,Apigenin,OC1=CC=C(C=C1)C1=CC(=O)C2=C(O1)C=C(O)C=C2O
+55,4-[3-(4-Acetyl-3-hydroxy-2-propylphenoxy)propoxy]phenoxy-acetic acid,CCCC1=C(OCCCOC2=CC=C(OCC(O)=O)C=C2)C=CC(C(C)=O)=C1O
+56,Bromophos-ethyl,CCOP(=S)(OCC)OC1=C(Cl)C=C(Br)C(Cl)=C1
+57,Quinestrol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(OC3CCCC3)=C4)[C@@H]1CC[C@@]2(O)C#C
+58,FR145237,CC1=CC2=C(OC(CN(CC3=CC=CC=C3)C(=O)NC3=C(F)C=C(F)C=C3F)=C2C2=CC=C(Cl)C=C2)C=C1
+59,Etonitazene,CCOC1=CC=C(CC2=NC3=C(C=CC(=C3)[N+]([O-])=O)N2CCN(CC)CC)C=C1
+60,Flavopiridol hydrochloride,Cl.CN1CC[C@@H]([C@H](O)C1)C1=C2OC(=CC(=O)C2=C(O)C=C1O)C1=C(Cl)C=CC=C1
+61,Bisphenol A,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+62,Parathion,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O
+63,4-Phenylphenol,OC1=CC=C(C=C1)C1=CC=CC=C1
+64,Tetradifon,ClC1=CC=C(C=C1)S(=O)(=O)C1=CC(Cl)=C(Cl)C=C1Cl
+65,Carbophenothion,CCOP(=S)(OCC)SCSC1=CC=C(Cl)C=C1
+66,O-Ethyl O-(p-nitrophenyl phenyl)phosphonothioate,CCOP(=S)(OC1=CC=C(C=C1)[N+]([O-])=O)C1=CC=CC=C1
+67,Pyraclostrobin,CON(C(=O)OC)C1=C(COC2=NN(C=C2)C2=CC=C(Cl)C=C2)C=CC=C1
+68,Ipconazole,CC(C)C1CCC(CC2=CC=C(Cl)C=C2)C1(O)CN1C=NC=N1
+69,Bisphenol AF,OC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)(C(F)(F)F)C(F)(F)F
+70,Chlorfenethol,CC(O)(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+71,Tonalide,CC1CC(C)(C)C2=C(C=C(C)C(=C2)C(C)=O)C1(C)C
+72,Estradiol acetate,CC(=O)OC1=CC=C2[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@@H]3CCC2=C1
+73,Diethylstilbestrol dipropionate,CCC(=O)OC1=CC=C(C=C1)C(\CC)=C(/CC)C1=CC=C(OC(=O)CC)C=C1
+74,Aldrin,[H][C@]12C[C@]([H])(C=C1)[C@]1([H])[C@@]2([H])[C@]2(Cl)C(Cl)=C(Cl)[C@@]1(Cl)C2(Cl)Cl
+75,Ioxynil,OC1=C(I)C=C(C=C1I)C#N
+76,"2,4-Dihydroxybenzophenone",OC1=CC=C(C(=O)C2=CC=CC=C2)C(O)=C1
+77,4-Nitro-N-phenylaniline,[O-][N+](=O)C1=CC=C(NC2=CC=CC=C2)C=C1
+78,"4,4'-(4-Methylpentane-2,2-diyl)diphenol",CC(C)CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+79,"4-(4-Chlorophenyl)-2-phenyl-2-(1H-1,2,4-triazol-1-ylmethyl)butyronitrile",ClC1=CC=C(CCC(CN2C=NC=N2)(C#N)C2=CC=CC=C2)C=C1
+80,Hydroxyflutamide,CC(C)(O)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+81,Prothiofos,CCCSP(=S)(OCC)OC1=C(Cl)C=C(Cl)C=C1
+82,Lemildipine,COC(=O)C1=C(C)NC(COC(N)=O)=C(C1C1=C(Cl)C(Cl)=CC=C1)C(=O)OC(C)C
+83,"(16alpha, 17beta)-Estra-1,3,5(10)-triene-3,16,17-triol 16,17-diacetate 3-benzoate",[H][C@@]12C[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@@]1(C)CC[C@]1([H])C3=CC=C(OC(=O)C4=CC=CC=C4)C=C3CC[C@@]21[H]
+84,Dehydropregnenolone acetate,[H][C@@]12CC=C(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(C)=O
+85,Mitotane,ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=C(Cl)C=CC=C1
+86,"p,p'-DDE",ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1
+87,Dieldrin,[H][C@]12O[C@@]1([H])[C@@]1([H])C[C@]2([H])[C@@]2([H])[C@]1([H])[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl
+88,Manidipine dihydrochloride,Cl.Cl.COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1
+89,Methoxychlor,COC1=CC=C(C=C1)C(C1=CC=C(OC)C=C1)C(Cl)(Cl)Cl
+90,Estriol,C[C@]12CC[C@H]3[C@@H](CCC4=C3C=CC(O)=C4)[C@@H]1C[C@@H](O)[C@@H]2O
+91,"Tris(1,3-dichloro-2-propyl) phosphate",ClCC(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl
+92,Bromuconazole,ClC1=CC(Cl)=C(C=C1)C1(CN2C=NC=N2)CC(Br)CO1
+93,"Ethyl 2-cyano-3,3-diphenylacrylate",CCOC(=O)C(C#N)=C(C1=CC=CC=C1)C1=CC=CC=C1
+94,Tenidap,NC(=O)N1C(O)=C(C(=O)C2=CC=CS2)C2=CC(Cl)=CC=C12
+95,Levosimendan,C[C@@H]1CC(=O)NN=C1C1=CC=C(NN=C(C#N)C#N)C=C1
+96,Nicardipine hydrochloride,Cl.COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1
+97,Aranidipine,COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OCC(C)=O
+98,Dienestrol diacetate,CC=C(C(=CC)C1=CC=C(OC(C)=O)C=C1)C1=CC=C(OC(C)=O)C=C1

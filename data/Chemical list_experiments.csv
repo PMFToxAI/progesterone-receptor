@@ -1,0 +1,69 @@
+name,smiles,predictions_model2
+"p,p'-DDT",ClC1=CC=C(C=C1)C(C1=CC=C(Cl)C=C1)C(Cl)(Cl)Cl,Inhibitor_weak
+"o,p'-DDT",ClC1=CC=C(C=C1)C(C1=CC=CC=C1Cl)C(Cl)(Cl)Cl,Inhibitor_weak
+"p,p'-DDE", ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,Inhibitor_weak
+"o,p'-DDE",ClC(Cl)=C(C1=CC=C(Cl)C=C1)C1=C(Cl)C=CC=C1,Inhibitor_weak
+"p,p'-DDD",ClC(Cl)C(C1=CC=C(Cl)C=C1)C1=CC=C(Cl)C=C1,Inhibitor_weak
+"o,p'-DDD",CCOC(=O)C(=O)CC(=O)C1=CC=CC=N1,Inactive
+2-Nonylphenol,CCCCCCCCCC1=C(O)C=CC=C1,Inhibitor_very weak
+Bisphenol A,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Inhibitor_weak
+alpha-Endosulfan,[H][C@]12CO[S@@](=O)OC[C@@]1([H])[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl,Inhibitor_weak
+beta-Endosulfan,[H][C@]12CO[S@](=O)OC[C@@]1([H])[C@@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl,Inhibitor_weak
+Chlordecone,OC1C2(Cl)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C41Cl,Inhibitor_strong
+Aldrine,[H][C@]12C[C@]([H])(C=C1)[C@]1([H])[C@@]2([H])[C@]2(Cl)C(Cl)=C(Cl)[C@@]1(Cl)C2(Cl)Cl,Inhibitor_weak
+Vinclozolin,CC1(OC(=O)N(C1=O)C1=CC(Cl)=CC(Cl)=C1)C=C,Inhibitor_weak
+methoxychlor ,COC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)C(Cl)(Cl)Cl,Inhibitor_weak
+aldrin,[H][13C@]12[13CH2][13C@]([H])([13CH]=[13CH]1)[13C@]1([H])[13C@@]2([H])[13C@]2(Cl)[13C](Cl)=[13C](Cl)[13C@@]1(Cl)[13C]2(Cl)Cl,Inhibitor_weak
+dieldrin ,[H][13C@]12O[13C@@]1([H])[13C@@]1([H])[13CH2][13C@]2([H])[13C@@]2([H])[13C@]1([H])[13C@@]1(Cl)[13C](Cl)=[13C](Cl)[13C@]2(Cl)[13C]1(Cl)Cl,Inhibitor_weak
+chlordecon ,OC1C2(Cl)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C(Cl)(Cl)C41Cl,Inhibitor_strong
+lindane ,CCC1=C2CCC(C)(C)C2=CC(=C1)C(C)(C)C,Inactive
+trans-nonachlor,[H][13C@]12[13C@H](Cl)[13C@@H](Cl)[13C@H](Cl)[13C@@]1([H])[13C@@]1(Cl)[13C](Cl)=[13C](Cl)[13C@]2(Cl)[13C]1(Cl)Cl,Inhibitor_very weak
+cis-nonachlor ,[H][C@]12[C@H](Cl)[C@H](Cl)[C@H](Cl)[C@@]1([H])[C@]1(Cl)C(Cl)=C(Cl)[C@]2(Cl)C1(Cl)Cl,Inhibitor_very weak
+alachlor ,[Na+].CCC1=CC=CC(CC)=C1N(COC)C(=O)CS([O-])(=O)=O,Inactive
+atrazine ,CCN(N=O)C1=NC(Cl)=NC(NC(C)C)=N1,Inactive
+benomyl ,CCCCNC(=O)N1C(NC(=O)OC)=NC2=C1C=CC=C2,Inhibitor_very weak
+BHA,CC(=NOCC1=C(F)C(F)=C(F)C(F)=C1F)C(C)=NOCC1=C(F)C(F)=C(F)C(F)=C1F,Inhibitor_very weak
+genistein ,OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(=COC3=C2)C2=C(O)C=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Inactive
+daidzein ,O[C@@H]1[C@@H](O)[C@H](OC2=CC=C3C(OC=C(C3=O)C3=CC=C(O)C=C3)=C2)O[C@@H]([C@H]1O)C(O)=O,Inactive
+glycitein ,COC1=C(O)C=C2OC=C(C3=CC=C(O[C@@H]4O[C@@H]([C@@H](O)[C@H](O)[C@H]4O)C(O)=O)C=C3)C(=O)C2=C1,Inactive
+biochanin A ,COC1=C2C(=O)C(=COC2=CC(O)=C1)C1=CC(CC=C(C)C)=C(OC)C(O)=C1,Inhibitor_weak
+apigenin ,O[C@@H]1[C@@H](COC(=O)\C=C\C2=CC=C(O)C=C2)O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H]1O,Inactive
+luteolin ,OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC(O)=C(O)C=C2)[C@H](O)[C@@H](O)[C@H]1O,Inactive
+kaempherol ,O[C@@H]1[C@@H](O)[C@H](OC2=C(OC3=CC(O)=CC(O)=C3C2=O)C2=CC=C(O)C=C2)O[C@@H]([C@H]1O)C(O)=O,Inactive
+17a-Ethinyl estradiol,[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,Activator_strong
+meso-Hexestrol,CC[C@@H]([C@@H](CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Inactive
+Diethylstilbestrol (DES),CC\C(=C(\CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Inhibitor_weak
+17β-Estradiol,[H][C@@]12C[C@@H](I)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,Inhibitor_weak
+17α-Estradiol,[2H][C@@H]1C[C@H]2[C@@H]3CCC4=CC(O)=CC=C4[C@H]3CC[C@]2(C)[C@@H]1O,Activator_moderate
+Estrone,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O[C@@H]1O[C@@H]([C@@H](O[2H])[C@H](O[2H])[C@H]1O[2H])C(=O)O[2H])C=C3,Activator_moderate
+4-tert-Octylphenol,CC(C)(C)CC(C)(C)C1=CC=C(O)C=C1,Inhibitor_very weak
+Genistein,OC[C@H]1O[C@@H](OC2=CC(O)=C3C(=O)C(=COC3=C2)C2=C(O)C=C(O)C=C2)[C@H](O)[C@@H](O)[C@@H]1O,Inactive
+Bisphenol B,CCC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Inhibitor_weak
+Daidzein,O[C@@H]1[C@@H](O)[C@H](OC2=CC=C3C(OC=C(C3=O)C3=CC=C(O)C=C3)=C2)O[C@@H]([C@H]1O)C(O)=O,Inactive
+5α-Dihydrotestosterone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)CC[C@]12C,Activator_weak
+4-Cumylphenol,CC(C)(C1=CC=CC=C1)C1=CC=C(O)C=C1,Inhibitor_weak
+Kepone,ClC12C(=O)C3(Cl)C4(Cl)C1(Cl)C1(Cl)C2(Cl)C3(Cl)C4(Cl)C1(Cl)Cl,Inhibitor_weak
+17α-Methyltestosterone,[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,Activator_strong
+Apigenin,O[C@@H]1[C@@H](COC(=O)\C=C\C2=CC=C(O)C=C2)O[C@@H](OC2=CC(O)=C3C(=O)C=C(OC3=C2)C2=CC=C(O)C=C2)[C@H](O)[C@H]1O,Inactive
+Methoxychlor,COC1=CC=C(C=C1)C(C1=CC=C(O)C=C1)C(Cl)(Cl)Cl,Inhibitor_weak
+Kaempferol,[H][C@]1(CO)O[C@@]([H])(OC[C@@]2([H])O[C@@]([H])(OC3=C(OC4=CC(O)=CC(O)=C4C3=O)C3=CC=C(O)C=C3)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@H]1O,Inactive
+Butylbenzyl phthalate,CCCCOC(=O)C1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1,Inhibitor_weak
+Chrysin,COC1=CC=CC=C1C1=CC(=O)C2=C(O1)C=C(O)C=C2O,Inactive
+Fenarimol,ClC1=CC=C(C=C1)C(C1=CN=CN=C1)C1=CC=CC=C1Cl,Inhibitor_weak
+p-n-Nonylphenol,CCCCCCCCCC1=CC=C(O)C=C1,Inhibitor_very weak
+Ethylparaben,CCOC(=O)C1=CC=C(OS(O)(=O)=O)C=C1,Inactive
+Di-n-butyl phthalate,CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,Inhibitor_very weak
+Dicofol,OC(C1=CC=C(Cl)C=C1)(C1=CC=CC=C1Cl)C(Cl)(Cl)Cl,Inactive
+Diethylhexyl phthalate,CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC,Inactive
+Haloperidol,CCCCCCCC(=O)OC1(CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1)C1=CC=C(Cl)C=C1,Inactive
+Spironolactone,[H][C@@]12CC[C@@]3(CCC(=O)O3)[C@@]1(C)CCC1([H])[C@@]2([H])[C@H](SC)[C@@H](O)C2=CC(=O)CC[C@]12C,Inhibitor_weak
+Corticosterone,CC(=O)OCC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)C3=CC[C@]12C,Activator_weak
+Flutamide,CC(C)C(=O)NC1=C(C=CC(=C1)C(F)(F)F)[N+]([O-])=O,Inhibitor_very weak
+Atrazine,CCN(N=O)C1=NC(Cl)=NC(NC(C)C)=N1,Inactive
+Procymidone,CC12CC1(C)C(=O)N(C2=O)C1=CC(Cl)=CC(Cl)=C1,Inhibitor_very weak
+Linuron,CON(C)C(=O)NC1=CC=C(Cl)C=C1,Inactive
+Reserpine,CN1C(CSCC(F)(F)F)NC2=CC(Cl)=C(C=C2S1(=O)=O)S(N)(=O)=O.CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C(NC5=C4C=CC(OC)=C5)[C@H]3C[C@@H]2[C@@H]1C(=O)OC)OC(=O)C1=CC(OC)=C(OC)C(OC)=C1,Inhibitor_strong
+Hydroxyflutamide,CC(C)(O)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F,Inhibitor_weak
+Phenobarbital Sodium,[Na+].CCC1(C(=O)NC([O-])=NC1=O)C1=CC=CC=C1,Inactive
+Ketoconazole,CC(=O)N1CCN(CC1)C1=CC=C(OC[C@H]2CO[C@@](CN3C=CN=C3)(O2)C2=CC=C(Cl)C=C2Cl)C=C1,Inhibitor_weak
+Cycloheximide,[H][C@]1(C[C@@](C)(C[C@H](C)C1=O)OC(C)=O)[C@H](O)CC1CC(=O)NC(=O)C1,Inactive
