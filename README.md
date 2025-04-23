@@ -40,7 +40,7 @@ We use conda to manage dependencies. To replicate our environment use:
 │   ├── conf_matrix_1.csv
 │   ├── conf_matrix_2.csv
 │   ├── conf_matrix_3.csv
-│   └── model_with_oversample_ago.13-0.08.weights.h5 -> model weights
+│   └── 001_model_with_oversample_ago.1.10.weights.h5 -> model weights
 ├── README.md
 └── requirements.txt -> all Python dependencies frozen versions
 
